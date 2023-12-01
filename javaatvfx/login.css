@@ -1,0 +1,20 @@
+#header{
+    display: flex;
+    align-items: top;
+    justify-content: space-between;
+}
+/*
+#form{
+    display: flex;
+    margin-left: 600px;
+    border-left: 600px;
+}
+*/
+#infos{
+    display: block;
+    float: right;
+    background-color: white;
+}
+img{
+    height: 240px;
+}
